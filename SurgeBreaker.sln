@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurgeBreaker", "SurgeBreaker\SurgeBreaker.csproj", "{4DA767F8-5230-4877-A0A1-690E96197FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA767F8-5230-4877-A0A1-690E96197FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA767F8-5230-4877-A0A1-690E96197FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA767F8-5230-4877-A0A1-690E96197FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA767F8-5230-4877-A0A1-690E96197FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210D11DA-3440-43B3-BD97-F517E14C18C1}
+	EndGlobalSection
+EndGlobal
